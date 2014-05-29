@@ -1,5 +1,8 @@
 bin/
 
+# emac backp files
+*~
+
 .classpath
 *.class
 
